@@ -1379,4 +1379,9 @@ def download_dialogstudio(accepted_filter_ids):
             dsets.extend(dset)
     return dsets
 
-
+def download_aya_collection(accepted_filter_ids):
+    dsets =[]
+    for filter_id in accepted_filter_ids:
+        dset = huggingface_download("CohereForAI/aya_collection", filter_id)
+        dsets.extend(dset)
+    return dsets

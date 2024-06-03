@@ -1412,3 +1412,12 @@ def prepare_dialogstudio(row):
         })
         parent = 2 * i + 1
     return messages
+
+def prepare_aya_collection(row):
+    dset_name = row['dataset_name'][0].lower()
+    dset_name = "aya-" + dset_name
+    return convert_inputs_targets_to_messages(
+        row['inputs'],
+        row['targets'],
+        dset_name
+    )

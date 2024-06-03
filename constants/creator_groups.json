@@ -14,7 +14,8 @@
         "Vector Institute for Artificial Intelligence",
         "VietAI",
         "Yobamoodua Cultural Heritage (YMCH)",
-        "explainthejoke.com"
+        "explainthejoke.com",
+        "Cohere For AI Community"
     ],
     "Startup": [
         "01.ai",
@@ -25,6 +26,7 @@
         "Appswave",
         "Argilla",
         "Artie Inc.",
+        "ASAS.AI",
         "Atlas Labs",
         "Brain Technologies",
         "Bridge Connectivity Solutions",
@@ -61,7 +63,8 @@
         "Surge AI",
         "TAUS",
         "Ubiqus",
-        "Zhipu AI"
+        "Zhipu AI",
+        "GalsenAI"
     ],
     "Government": [
         "Agency for Science, Technology and Research",
@@ -460,7 +463,40 @@
         "Yonsei University",
         "York University",
         "Zhejiang University",
-        "Zurich University of Applied Sciences"
+        "Zurich University of Applied Sciences",
+        "Kaduna State University",
+        "Instituto Politecnico Nacional Mexico",
+        "Kenyatta University",
+        "Nnamdi Azikiwe University",
+        "University of Zambia",
+        "African Master in Machine Intelligence",
+        "Kwame Nkrumah University of Science and Technology",
+        "Ai4Innov",
+        "The University of British Columbia",
+        "South African Centre for Digital Language Resources",
+        "Accra Institute of Technology",
+        "University of Electronic Science and Technology of China",
+        "University of Porto",
+        "Lancaster University",
+        "Julich Supercomputing Centre",
+        "College de Rebero",
+        "Bayero University Kano",
+        "Montclair State University",
+        "Tom Mboya University",
+        "Bahir Dar University",
+        "Ahmadu Bello University",
+        "Université Hassan II de Casablanca",  
+        "Jimma University", 
+        "Wollo University",
+        "Addis Ababa University",
+        "Shahjalal University of Science and Technology",
+        "Binghamton University", 
+        "King Abdulaziz University",  
+        "University of Limerick", 
+        "King Fahd University of Petroleum and Minerals",
+        "Universitas Indonesia", 
+        "Kanda University of International Studies", 
+         "Telkom University"
     ],
     "Research Group": [
         "ADAPT Centre",
@@ -507,7 +543,13 @@
         "U.S. Army Research Laboratory",
         "Vietnam Institute of Information Technology",
         "WeNet Open Source Community",
-        "pyThaiNLP"
+        "pyThaiNLP",
+        "HausaNLP", 
+        "Digital Umuganda",
+        "LIAAD", 
+        "dLAB", 
+        "Fraunhofer FIT",
+        "Kata AI"
     ],
     "Corporation": [
         "ASUS Intelligent Cloud Services (AICS)",

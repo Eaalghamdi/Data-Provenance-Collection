@@ -329,7 +329,13 @@
         "Panjabi",
         "Punjabi",
         "Tamil",
-        "Telugu"
+        "Telugu",
+        "Kashmiri", 
+        "Dogri", 
+        "Konkani", 
+        "Khasi", 
+        "Bodo", 
+        "Manipuri"
     ],
     "Low Resource Languages": [
         "Acehnese (Arabic script)",
@@ -507,6 +513,7 @@
     ],
     "Arabic": [
         "Arabic",
+        "Algerian Arabic",
         "Egyptian Arabic",
         "Hassaniya Arabic",
         "Mesopotamian Arabic",

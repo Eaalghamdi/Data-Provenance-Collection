@@ -1,0 +1,5351 @@
+{
+    "aya-afriqa-inst": {
+        "Unique Dataset Identifier": "aya-afriqa-inst",
+        "Dataset Name": "AfriQA-inst",
+        "Paper Title": "Cross-lingual Open-Retrieval Question Answering for African Languages",
+        "Dataset URL": "https://github.com/masakhane-io/afriqa",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/abs/2305.06897",
+        "Semantic Scholar Corpus ID": 258615756.0,
+        "Paper Link": "https://aclanthology.org/2023.findings-emnlp.997/",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Bemba",
+            "Fon",
+            "Hausa",
+            "Igbo",
+            "Kinyarwanda",
+            "Swahili",
+            "Twi",
+            "Wolof",
+            "Yoruba"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "human",
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Masakhane NLP",
+            "University of Waterloo",
+            "Google",
+            "University College London",
+            "Mila Quebec AI Institute",
+            "McGill University",
+            "Lelapa AI",
+            "GalsenAI",
+            "University of Washington",
+            "Ai4Innov",
+            "University of Zambia",
+            "Montclair State University",
+            "Instituto Politecnico Nacional Mexico",
+            "Technical University of Munich",
+            "Lancaster University",
+            "RIKEN Center for Advanced Intelligence Project (AIP)",
+            "South African Centre for Digital Language Resources",
+            "Julich Supercomputing Centre",
+            "University of Porto",
+            "Insight SFI Research Centre for Data Analytics",
+            "University of Amsterdam",
+            "Accra Institute of Technology",
+            "Kwame Nkrumah University of Science and Technology",
+            "University of Ibadan",
+            "Tom Mboya University",
+            "Fudan University",
+            "University of Electronic Science and Technology of China",
+            "The University of British Columbia",
+            "African Master in Machine Intelligence",
+            "College de Rebero",
+            "Kaduna State University",
+            "Bayero University Kano",
+            "Saarland University",
+            "University of Edinburgh",
+            "Kenyatta University",
+            "Nnamdi Azikiwe University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://aclanthology.org/2023.findings-emnlp.997/"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_afriqa"
+    },
+    "aya-afrisenti-inst": {
+        "Unique Dataset Identifier": "aya-afrisenti-inst",
+        "Dataset Name": "AfriSenti-inst",
+        "Paper Title": "AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages",
+        "Dataset URL": "https://github.com/afrisenti-semeval/afrisent-semeval-2023",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/dataset/afrisenti",
+        "ArXiv URL": "https://arxiv.org/abs/2302.08956",
+        "Semantic Scholar Corpus ID": 257019629.0,
+        "Paper Link": "https://aclanthology.org/2023.emnlp-main.862.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Amharic",
+            "Arabic",
+            "Hausa",
+            "Igbo",
+            "Kinyarwanda",
+            "Moroccan Arabic",
+            "Portuguese",
+            "Nigerian Pidgin English",
+            "Oromo",
+            "Swahili",
+            "Tigrinya",
+            "Twi",
+            "Tsonga",
+            "Yoruba"
+        ],
+        "Task Categories": [
+            "Sentiment Analysis"
+        ],
+        "Text Sources": [
+            "crowdsourced",
+            "twitter"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "University of Porto",
+            "Bayero University Kano",
+            "Ahmadu Bello University",
+            "Bahir Dar University",
+            "University of Cambridge",
+            "Cardiff University",
+            "University College London",
+            "Universitat Hamburg",
+            "Uppsala University",
+            "National Research Council Canada",
+            "Google",
+            "Université Hassan II de Casablanca",
+            "LIAAD",
+            "dLAB",
+            "University of Deusto",
+            "Kaduna State University",
+            "Digital Umuganda",
+            "Wollo University",
+            "Jimma University",
+            "Fraunhofer FIT",
+            "Accra Institute of Technology",
+            "Masakhane NLP",
+            "HausaNLP"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_afrisenti"
+    },
+    "aya-amharic-qa": {
+        "Unique Dataset Identifier": "aya-amharic-qa",
+        "Dataset Name": "Amharic QA",
+        "Paper Title": "AmQA: Amharic Question Answering Dataset",
+        "Dataset URL": "https://github.com/semantic- systems/amharic-qa",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/paper/amqa-amharic-question-answering-dataset",
+        "ArXiv URL": "https://arxiv.org/pdf/2303.03290",
+        "Semantic Scholar Corpus ID": 257365487.0,
+        "Paper Link": "https://arxiv.org/pdf/2303.03290",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Amharic"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "crowdsourced",
+            " wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Addis Ababa University",
+            "Universitat Hamburg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_amharic_qa"
+    },
+    "aya-news-summary-instruct": {
+        "Unique Dataset Identifier": "aya-news-summary-instruct",
+        "Dataset Name": "News-summary-instruct",
+        "Paper Title": "Bengali Abstractive News Summarization (BANS): A Neural Attention Approach",
+        "Dataset URL": "https://www.kaggle.com/datasets/prithwirajsust/bengali-news-summarization-dataset",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2012.01747",
+        "Semantic Scholar Corpus ID": 227254906.0,
+        "Paper Link": "https://link.springer.com/chapter/10.1007/978-981-33-4673-4_4",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Bengali"
+        ],
+        "Task Categories": [
+            "Summarization"
+        ],
+        "Text Sources": [
+            "bengali news portal"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Shahjalal University of Science and Technology"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC0 1.0",
+                "License URL": "https://huggingface.co/datasets/sustcsenlp/bn_news_summarization"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_bengali_news"
+    },
+    "aya-arpa-instruct": {
+        "Unique Dataset Identifier": "aya-arpa-instruct",
+        "Dataset Name": "Arpa-instruct",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/syntaxshill/arpa-aya",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Armenian"
+        ],
+        "Task Categories": [
+            "Paraphrase Generation"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "Artistic License 2.0",
+                "License URL": "https://huggingface.co/datasets/syntaxshill/arpa-aya"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_armenian_instruct"
+    },
+    "aya-telugu-food-recipes": {
+        "Unique Dataset Identifier": "aya-telugu-food-recipes",
+        "Dataset Name": "Telugu-food-recipes",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/SuryaKrishna02/aya-telugu-food-recipes",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Telugu"
+        ],
+        "Task Categories": [
+            "Recipe Generation"
+        ],
+        "Text Sources": [
+            "telugu.suryaa.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_telugu_food"
+    },
+    "aya-telugu-jokes": {
+        "Unique Dataset Identifier": "aya-telugu-jokes",
+        "Dataset Name": "Telugu-jokes",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/SuryaKrishna02/aya-telugu-jokes",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Telugu"
+        ],
+        "Task Categories": [
+            "Dialog Generation"
+        ],
+        "Text Sources": [
+            "telugu.suryaa.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_telugu_jokes"
+    },
+    "aya-telugu-news-articles": {
+        "Unique Dataset Identifier": "aya-telugu-news-articles",
+        "Dataset Name": "Telugu-news-articles",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/SuryaKrishna02/aya-telugu-news-articles",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Telugu"
+        ],
+        "Task Categories": [
+            "Title Generation"
+        ],
+        "Text Sources": [
+            "telugu.suryaa.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_telugu_news"
+    },
+    "aya-telugu-poems": {
+        "Unique Dataset Identifier": "aya-telugu-poems",
+        "Dataset Name": "Telugu-poems",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/SuryaKrishna02/aya-telugu-poems",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Telugu"
+        ],
+        "Task Categories": [
+            "Poem Generation",
+            "Explanation Generation"
+        ],
+        "Text Sources": [
+            "telugu.suryaa.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_telugu_poems"
+    },
+    "aya-farstail-instruct": {
+        "Unique Dataset Identifier": "aya-farstail-instruct",
+        "Dataset Name": "FarsTail-Instruct",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/hghader1/FarsTail-Instruct-LLM",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Persian"
+        ],
+        "Task Categories": [
+            "Natural Language Inference"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "fars-tail"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_persian_farstail"
+    },
+    "aya-hindi-article-summarization": {
+        "Unique Dataset Identifier": "aya-hindi-article-summarization",
+        "Dataset Name": "Hindi-article-summarization",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/ganeshjcs/hindi-article-summarization",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Hindi"
+        ],
+        "Task Categories": [
+            "Summarization"
+        ],
+        "Text Sources": [
+            "hindi news websites"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "hindi text short and large summarization corpus"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://www.kaggle.com/datasets/disisbig/hindi-text-short-and-large-summarization-corpus"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_hindi_news"
+    },
+    "aya-hindi-article-generation": {
+        "Unique Dataset Identifier": "aya-hindi-article-generation",
+        "Dataset Name": "Hindi-article-generation",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/ganeshjcs/hindi-headline-article-generation",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Hindi"
+        ],
+        "Task Categories": [
+            "Title Generation"
+        ],
+        "Text Sources": [
+            "hindi news websites"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "hindi text short and large summarization corpus"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://www.kaggle.com/datasets/disisbig/hindi-text-short-and-large-summarization-corpus"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_hindi_headline"
+    },
+    "aya-imdb-dutch-instruct": {
+        "Unique Dataset Identifier": "aya-imdb-dutch-instruct",
+        "Dataset Name": "IMDB-Dutch-instruct",
+        "Paper Title": "Learning Word Vectors for Sentiment Analysis",
+        "Dataset URL": "https://huggingface.co/datasets/jjzha/imdb-dutch-instruct",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/paper/learning-word-vectors-for-sentiment-analysis",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/P11-1015.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Dutch"
+        ],
+        "Task Categories": [
+            "Sentiment Analysis"
+        ],
+        "Text Sources": [
+            "movie reviews"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "imbd"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_dutch_imdb"
+    },
+    "aya-indicsentiment-inst": {
+        "Unique Dataset Identifier": "aya-indicsentiment-inst",
+        "Dataset Name": "IndicSentiment-inst",
+        "Paper Title": "Towards Leaving No Indic Language Behind: Building Monolingual Corpora, Benchmark and Models for Indic Languages",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/paper/indicxtreme-a-multi-task-benchmark-for/review/",
+        "ArXiv URL": "https://arxiv.org/abs/2212.05409",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/2023.acl-long.693/",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Assamese",
+            "Bodo",
+            "Bengali",
+            "Dogri",
+            "English",
+            "Konkani",
+            "Gujarati",
+            "Hindi",
+            "Khasi",
+            "Kannada",
+            "Kashmiri",
+            "Maithili",
+            "Malayalam",
+            "Manipuri",
+            "Marathi",
+            "Nepali",
+            "Odia",
+            "Punjabi",
+            "Sanskrit",
+            "Santali",
+            "Sindhi",
+            "Tamil",
+            "Telugu",
+            "Urdu"
+        ],
+        "Task Categories": [
+            "Sentiment Analysis"
+        ],
+        "Text Sources": [
+            "wikipedia.org",
+            " reviews"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "copa"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "MIT License",
+                "License URL": "https://aclanthology.org/2023.acl-long.693.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_indic_sentiment"
+    },
+    "aya-indicxparaphrase-inst": {
+        "Unique Dataset Identifier": "aya-indicxparaphrase-inst",
+        "Dataset Name": "IndicXParaphrase-inst",
+        "Paper Title": "",
+        "Dataset URL": "https://github.com/AI4Bharat/IndicBERT",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Assamese",
+            "Malayalam",
+            "Bodo",
+            "Manipuri",
+            "Bengali",
+            "Marathi",
+            "Dogri",
+            "Nepali",
+            "English",
+            "Odia",
+            "Konkani",
+            "Punjabi",
+            "Gujarati",
+            "Sanskrit",
+            "Hindi",
+            "Santali",
+            "Khasi",
+            "Sindhi",
+            "Kannada",
+            "Tamil",
+            "Kashmiri",
+            "Telugu",
+            "Maithili",
+            "Urdu"
+        ],
+        "Task Categories": [
+            "Paraphrase Generation"
+        ],
+        "Text Sources": [
+            "wikipedia.org",
+            " reviews"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "copa"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "MIT License",
+                "License URL": "https://aclanthology.org/2023.acl-long.693.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_indic_paraphrase"
+    },
+    "aya-indo-stories-instruct": {
+        "Unique Dataset Identifier": "aya-indo-stories-instruct",
+        "Dataset Name": "Indo-stories-instruct",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/Iftitahu/indonesian_instruct_stories",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Indonesian"
+        ],
+        "Task Categories": [
+            "Translation"
+        ],
+        "Text Sources": [
+            "storyweaver.org.in"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://huggingface.co/datasets/Iftitahu/indonesian_instruct_stories"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_indo_stories"
+    },
+    "aya-joke-explaination-inst": {
+        "Unique Dataset Identifier": "aya-joke-explaination-inst",
+        "Dataset Name": "Joke-explaination-inst",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/theblackcat102/joke_explaination",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English"
+        ],
+        "Task Categories": [
+            "Reasoning over Natural Language"
+        ],
+        "Text Sources": [
+            "explainthejoke.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "MIT License",
+                "License URL": "https://huggingface.co/datasets/theblackcat102/joke_explaination"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_joke_explaination"
+    },
+    "aya-lijnews-instruct": {
+        "Unique Dataset Identifier": "aya-lijnews-instruct",
+        "Dataset Name": "Lijnews-instruct",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/ConseggioLigure/lijnews-instruct-ita-lij",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Italian",
+            " Ligurian"
+        ],
+        "Task Categories": [
+            "Translation"
+        ],
+        "Text Sources": [
+            "news"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "ligurianwews corpus"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://github.com/ConseggioLigure/data/"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_ligurian_news"
+    },
+    "aya-llm-japanese-vanilla-inst": {
+        "Unique Dataset Identifier": "aya-llm-japanese-vanilla-inst",
+        "Dataset Name": "LLM-Japanese-Vanilla-inst",
+        "Paper Title": "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large Language Models and its Methodology",
+        "Dataset URL": "https://huggingface.co/datasets/izumi-lab/llm-japanese- dataset",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2305.12720",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Japanese"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "crowdsourced",
+            " wikipedia.org",
+            " wikinews",
+            " vocabularies",
+            " conversations"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "coursera corpus",
+            " paranatcom",
+            " tab-delimited bilingual sentence pairs",
+            " alt",
+            " talaka corpus",
+            " japanese-english subtitle corpus",
+            " japanese wordnet",
+            " easy japanese corpus",
+            " aozorra paperback",
+            " jmrd",
+            " aio",
+            " "
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://huggingface.co/datasets/tellarin-ai/llm-japanese-dataset-vanilla-aya-format"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_japanese_instruct"
+    },
+    "aya-masakhanews-inst": {
+        "Unique Dataset Identifier": "aya-masakhanews-inst",
+        "Dataset Name": "MasakhaNEWS-inst",
+        "Paper Title": "MasakhaNEWS: News Topic Classification for African languages",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2304.09972",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2304.09972",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Amharic",
+            "English ",
+            "French",
+            "Hausa",
+            "Igbo",
+            "Lingala",
+            "Luganda",
+            "Oromo",
+            "Nigerian Pidgin",
+            "Rundi",
+            "chiShona",
+            "Somali",
+            "Kiswahili",
+            "Tigrinya",
+            "isiXhosa",
+            "Yorùbá"
+        ],
+        "Task Categories": [
+            "Text Classification"
+        ],
+        "Text Sources": [
+            "bbc",
+            " voa"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-NC 4.0",
+                "License URL": "https://arxiv.org/pdf/2304.09972"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_masakhanews"
+    },
+    "aya-mintaka-inst": {
+        "Unique Dataset Identifier": "aya-mintaka-inst",
+        "Dataset Name": "Mintaka-inst",
+        "Paper Title": "Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering",
+        "Dataset URL": "https://github.com/amazon-science/mintaka",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/dataset/mintaka",
+        "ArXiv URL": "https://arxiv.org/abs/2210.01613",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/2022.coling-1.138/",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Hindi",
+            "Italian",
+            "Japanese",
+            "Portuguese",
+            "Spanis"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://github.com/amazon-science/mintaka"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_mintaka"
+    },
+    "aya-ntx-llm-inst": {
+        "Unique Dataset Identifier": "aya-ntx-llm-inst",
+        "Dataset Name": "NTX-LLM-inst",
+        "Paper Title": "Dataset and Baseline System for Multi-lingual Extraction and Normalization of Temporal and Numerical Expressions",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2303.18103",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2303.18103",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English",
+            "Chinese",
+            "Dutch",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Portuguese",
+            "Spanish",
+            "Swedish",
+            "Turkish",
+            "Hindi",
+            "and Arabic"
+        ],
+        "Task Categories": [
+            "Information Extraction"
+        ],
+        "Text Sources": [
+            "human"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://huggingface.co/datasets/tellarin-ai/ntx_llm_instructions"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_ntx_llm"
+    },
+    "aya-nusax-senti-inst": {
+        "Unique Dataset Identifier": "aya-nusax-senti-inst",
+        "Dataset Name": "NusaX-senti-inst",
+        "Paper Title": "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languag",
+        "Dataset URL": "https://github.com/IndoNLP/nusax",
+        "GitHub URL": "https://github.com/IndoNLP/nusax",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://aclanthology.org/2023.eacl-main.57.pdf",
+        "Semantic Scholar Corpus ID": 249209909.0,
+        "Paper Link": "https://aclanthology.org/2023.eacl-main.57.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Acehnese",
+            "Balinese",
+            "Banjarese",
+            "Buginese",
+            "Madurese",
+            "Indonesian",
+            "Minangkabau (Latin script)",
+            "Javanese",
+            "Ngaju",
+            "Sundanese",
+            "Toba Bata"
+        ],
+        "Task Categories": [
+            "Sentiment Analysis"
+        ],
+        "Text Sources": [
+            "twitter",
+            " zomato",
+            " tripadviser"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "smsa"
+        ],
+        "Creators": [
+            "Bloomberg",
+            "MBZUAI",
+            "The Hong Kong University of Science and Technology",
+            "Universitas Indonesia",
+            "University of Melbourne",
+            "Telkom University",
+            "Kanda University of International Studies",
+            "Kata AI",
+            "University of Zurich",
+            "Google"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://github.com/IndoNLP/nusax"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_nusax_senti"
+    },
+    "aya-persian-instruct-pn": {
+        "Unique Dataset Identifier": "aya-persian-instruct-pn",
+        "Dataset Name": "Persian-instruct-pn",
+        "Paper Title": "Leveraging ParsBERT and Pretrained mT5 for Persian Abstractive Text Summarization",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2012.11204",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2012.11204",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Persian"
+        ],
+        "Task Categories": [
+            "Summarization"
+        ],
+        "Text Sources": [
+            "tahlilbazaar",
+            " imna",
+            " shana",
+            " mehr",
+            " irna",
+            " khabaronline websites"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "pn-summary"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "MIT License",
+                "License URL": "https://huggingface.co/datasets/pn_summary"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_persian_instruct"
+    },
+    "aya-scb-mt-2020-prompt": {
+        "Unique Dataset Identifier": "aya-scb-mt-2020-prompt",
+        "Dataset Name": "SCB-MT-2020-prompt",
+        "Paper Title": "scb-mt-en-th-2020: A Large English-Thai Parallel Corpus",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/vistec-AI/thai2nmt",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2007.03541",
+        "Semantic Scholar Corpus ID": 220381366.0,
+        "Paper Link": "https://arxiv.org/pdf/2007.03541",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English",
+            "Thai"
+        ],
+        "Task Categories": [
+            "Translation"
+        ],
+        "Text Sources": [
+            "crowdsourced",
+            " news",
+            " custom model/code generated",
+            " wikipedia.org",
+            " paracrawl",
+            " thai government documents",
+            " governments",
+            " local websites "
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "taskmaster-1",
+            " sms corpus",
+            " mozilla common voice",
+            " microsoft research paraphrase identification corpus "
+        ],
+        "Creators": [
+            "Vidyasirimedhi Institution of Science and Technology",
+            "pyThaiNLP",
+            "Chulalongkorn University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://huggingface.co/datasets/pythainlp/scb_mt_2020_en2th_prompt"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_thai_scb"
+    },
+    "aya-scirepeval-biomimicry-inst": {
+        "Unique Dataset Identifier": "aya-scirepeval-biomimicry-inst",
+        "Dataset Name": "Scirepeval-biomimicry-inst",
+        "Paper Title": "SciRepEval: A Multi-Format Benchmark for Scientific Document Representations",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/allenai/scirepeval",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2211.13308",
+        "Semantic Scholar Corpus ID": 254018137.0,
+        "Paper Link": "https://arxiv.org/pdf/2211.13308",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English"
+        ],
+        "Task Categories": [
+            "Text Classification"
+        ],
+        "Text Sources": [
+            "academic papers"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "scidocs"
+        ],
+        "Creators": [
+            "Allen Institute for AI",
+            "Northwestern University",
+            "Yale University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": [
+            "templated_scirepeval"
+        ]
+    },
+    "aya-seed-instruct-lij": {
+        "Unique Dataset Identifier": "aya-seed-instruct-lij",
+        "Dataset Name": "Seed-instruct-lij",
+        "Paper Title": "Small Data, Big Impact: Leveraging Minimal Data for Effective Machine Translation",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/openlanguagedata/seed",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 259370570.0,
+        "Paper Link": "https://aclanthology.org/2023.acl-long.154.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Acehnese",
+            "Moroccan Arabic",
+            "Egyptian Arabic",
+            "Bambara",
+            "Balinese",
+            "Bhojpuri",
+            "Banjar",
+            "Buginese",
+            "Crimean Tatar",
+            "Southwestern Dinka",
+            "Dzongkha",
+            "English",
+            "Friulian",
+            "Nigerian Fulfulde",
+            "Paraguayan Guaraní",
+            "Chhattisgarhi",
+            "Kashmiri",
+            "Central Kanuri",
+            "Ligurian",
+            "Limburgish",
+            "Lombard",
+            "Latgalian",
+            "Magahi",
+            "Meitei",
+            "Maori",
+            "Nko",
+            "Nuer",
+            "Southern Pashto",
+            "Dari",
+            "Sicilian",
+            "Shan",
+            "Sardinian",
+            "Silesian",
+            "Tamasheq",
+            "Venetian",
+            "Standard Moroccan Tamazight"
+        ],
+        "Task Categories": [
+            "Translation"
+        ],
+        "Text Sources": [
+            "crowdsourced",
+            " commoncrawl.org",
+            " movies"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "opensubtitles",
+            " qcri",
+            " pmindia",
+            " multiindicmt",
+            " opus"
+        ],
+        "Creators": [
+            "Facebook AI Research",
+            "Johns Hopkins University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://aclanthology.org/2023.acl-long.154.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_seed_instruct"
+    },
+    "aya-soda-inst": {
+        "Unique Dataset Identifier": "aya-soda-inst",
+        "Dataset Name": "SODA-inst",
+        "Paper Title": "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/skywalker023/sodaverse",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/pdf/2212.10465",
+        "Semantic Scholar Corpus ID": 254877312.0,
+        "Paper Link": "https://arxiv.org/pdf/2212.10465",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English"
+        ],
+        "Task Categories": [
+            "Dialog Generation"
+        ],
+        "Text Sources": [
+            "custom model/code generated"
+        ],
+        "Model Generated": [
+            "OpenAI GPT-3.5-Turbo"
+        ],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Allen Institute for AI",
+            "Seoul National University",
+            "University of Washington",
+            "University of Southern California",
+            "University of Pittsburgh",
+            "Carnegie Mellon University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://arxiv.org/pdf/2212.10465"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_soda"
+    },
+    "aya-tamilstories": {
+        "Unique Dataset Identifier": "aya-tamilstories",
+        "Dataset Name": "TamilStories",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/aitamilnadu/tamil_stories",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Tamil"
+        ],
+        "Task Categories": [
+            "Title Generation"
+        ],
+        "Text Sources": [
+            "siruvarmalar.com",
+            "tamilsurangam.in"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_tamil_stories"
+    },
+    "aya-teluguriddles": {
+        "Unique Dataset Identifier": "aya-teluguriddles",
+        "Dataset Name": "TeluguRiddles",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/desik98/TeluguRiddles",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Telugu"
+        ],
+        "Task Categories": [
+            "Reasoning over Natural Language"
+        ],
+        "Text Sources": [
+            "telugupatham.blogspot.com/p/podupu-kathalu.html",
+            " maganti.org/podupu/podupu1.html",
+            " teluguadda.co.in/podupu-kathalu-telugu-with-answers/",
+            " palukuteniyalu.blogspot.com/2016/03/blog-post_17.html",
+            " mostusefulthings.blogspot.com/2011/06/blog-post.html"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_telugu_riddles"
+    },
+    "aya-thai-usembassy-prompt": {
+        "Unique Dataset Identifier": "aya-thai-usembassy-prompt",
+        "Dataset Name": "Thai-USEmbassy-prompt",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/pythainlp/thai_usembassy_en2th_prompt",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Thai"
+        ],
+        "Task Categories": [
+            "Translation"
+        ],
+        "Text Sources": [
+            "governments"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "thai_usembassy"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_thai_usembassy"
+    },
+    "aya-thai-pos-inst": {
+        "Unique Dataset Identifier": "aya-thai-pos-inst",
+        "Dataset Name": "Thai-POS-inst",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/pythainlp/Thai-Pos-promptt",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Thai"
+        ],
+        "Task Categories": [
+            "Sentence Composition"
+        ],
+        "Text Sources": [
+            "news"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "thai-pud"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 3.0",
+                "License URL": "https://huggingface.co/datasets/pythainlp/Thai-Pos-prompt"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_thai_pos"
+    },
+    "aya-thai-wiktionary-inst": {
+        "Unique Dataset Identifier": "aya-thai-wiktionary-inst",
+        "Dataset Name": "Thai-Wiktionary-inst",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/pythainlp/thai-wiktionary-prompt",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Thai"
+        ],
+        "Task Categories": [
+            "Natural Language Generation"
+        ],
+        "Text Sources": [
+            "th.wiktionary.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 3.0",
+                "License URL": "https://huggingface.co/datasets/pythainlp/thai-wiktionary-prompt"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_thai_wikitionary"
+    },
+    "aya-thirukkural-instruct": {
+        "Unique Dataset Identifier": "aya-thirukkural-instruct",
+        "Dataset Name": "Thirukkural-instruct",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/aitamilnadu/thirukkural_instruct",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Thirukkural"
+        ],
+        "Task Categories": [
+            "Natural Language Generation"
+        ],
+        "Text Sources": [
+            "public websites without copyright"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_tamil_thirukkural"
+    },
+    "aya-turku-paraphrase-inst": {
+        "Unique Dataset Identifier": "aya-turku-paraphrase-inst",
+        "Dataset Name": "Turku-paraphrase-inst",
+        "Paper Title": "Finnish Paraphrase Corpus",
+        "Dataset URL": "https://github.com/TurkuNLP/Turku-paraphrase-corpus",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/dataset/finnish-paraphrase-corpus",
+        "ArXiv URL": "https://arxiv.org/abs/2103.13103",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/2021.nodalida-main.29.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Finnish"
+        ],
+        "Task Categories": [
+            "Paraphrase Generation"
+        ],
+        "Text Sources": [
+            "movies"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "opensubititles",
+            " opus"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY SA",
+                "License URL": "https://aclanthology.org/2021.nodalida-main.29.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_turku_paraphrase"
+    },
+    "aya-ua-gec-inst": {
+        "Unique Dataset Identifier": "aya-ua-gec-inst",
+        "Dataset Name": "UA-Gec-inst",
+        "Paper Title": "UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language",
+        "Dataset URL": "https://github.com/grammarly/ua-gec",
+        "GitHub URL": "https://github.com/grammarly/ua-gec",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/dataset/ua-gec",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 232427798.0,
+        "Paper Link": "https://aclanthology.org/2023.unlp-1.12.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Ukrainian"
+        ],
+        "Task Categories": [
+            "Grammar Error Correction"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Grammarly"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://aclanthology.org/2023.unlp-1.12.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_ukranian_gec"
+    },
+    "aya-uner-llm-inst": {
+        "Unique Dataset Identifier": "aya-uner-llm-inst",
+        "Dataset Name": "UNER-LLM-inst",
+        "Paper Title": "Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark",
+        "Dataset URL": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GQ8HDL",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/dataset/uner-v1",
+        "ArXiv URL": "https://arxiv.org/pdf/2311.09122",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2311.09122",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Cebuano",
+            "Danish",
+            "German",
+            "English",
+            "Croatian",
+            "Portuguese",
+            "Russian",
+            "Slovak",
+            "Serbian",
+            "Swedish",
+            "Tagalog",
+            "Chinese"
+        ],
+        "Task Categories": [
+            "Named Entity Recognition"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "universal dependency corpora"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA",
+                "License URL": "https://arxiv.org/pdf/2311.09122"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_uner_llm"
+    },
+    "aya-urdu-news-gen-article": {
+        "Unique Dataset Identifier": "aya-urdu-news-gen-article",
+        "Dataset Name": "Urdu-News-Gen-Article",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/AhmadMustafa/Urdu-Instruct-News-Article-Generationn",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Urdu"
+        ],
+        "Task Categories": [
+            "Title Generation"
+        ],
+        "Text Sources": [
+            "news"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "urdu-news"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://data.mendeley.com/datasets/834vsxnb99/3"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_urdu_news_gen"
+    },
+    "aya-urdu-news-category-class": {
+        "Unique Dataset Identifier": "aya-urdu-news-category-class",
+        "Dataset Name": "Urdu-News-Category-Class",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/AhmadMustafa/Urdu-Instruct-News-Category-Classificationn",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Urdu"
+        ],
+        "Task Categories": [
+            "Text Classification"
+        ],
+        "Text Sources": [
+            "news"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "urdu-news"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://data.mendeley.com/datasets/834vsxnb99/3"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_urdu_news_category"
+    },
+    "aya-urdu-news-gen-headline": {
+        "Unique Dataset Identifier": "aya-urdu-news-gen-headline",
+        "Dataset Name": "Urdu-News-Gen-Headline",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/AhmadMustafa/Urdu-Instruct-News-Headline-Generation",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Urdu"
+        ],
+        "Task Categories": [
+            "Title Generation"
+        ],
+        "Text Sources": [
+            "news"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "urdu-news"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://data.mendeley.com/datasets/834vsxnb99/3"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_urdu_news_headline"
+    },
+    "aya-wiki-split-inst": {
+        "Unique Dataset Identifier": "aya-wiki-split-inst",
+        "Dataset Name": "Wiki-split-inst",
+        "Paper Title": "Learning To Split and Rephrase From Wikipedia Edit History",
+        "Dataset URL": "https://github.com/google-research-datasets/wiki-split",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://arxiv.org/abs/1808.09468",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/D18-1080.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English"
+        ],
+        "Task Categories": [
+            "Paraphrase Generation"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_wiki_split"
+    },
+    "aya-x-csqa-inst": {
+        "Unique Dataset Identifier": "aya-x-csqa-inst",
+        "Dataset Name": "X-CSQA-inst",
+        "Paper Title": "Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/INK-USC/XCSR",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/dataset/x-csqa",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 235421949.0,
+        "Paper Link": "https://aclanthology.org/2021.acl-long.102.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English",
+            "Chinese",
+            "German",
+            "Spanish",
+            "French",
+            "Italian",
+            "Japanese",
+            "Dutch",
+            "Polish",
+            "Portuguese",
+            "Russian",
+            "Arabic",
+            "Vietnamese",
+            "Hindi",
+            "Swahili",
+            "Urdu"
+        ],
+        "Task Categories": [
+            "Commonsense Reasoning"
+        ],
+        "Text Sources": [
+            "crowdsourced",
+            " custom model/code generated"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "omcs corpus"
+        ],
+        "Creators": [
+            "University of Southern California"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": [
+            "templated_xcsqa"
+        ]
+    },
+    "aya-xlel_wd-inst": {
+        "Unique Dataset Identifier": "aya-xlel_wd-inst",
+        "Dataset Name": "Xlel_wd-inst",
+        "Paper Title": "Multilingual Event Linking to Wikidata",
+        "Dataset URL": "https://github.com/adithya7/xlel-wd",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/2022.mia-1.5.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English",
+            "French",
+            "Russian",
+            "German",
+            "Italian",
+            "Polish",
+            "Spanish",
+            "Portuguese",
+            "Dutch",
+            "Japanese",
+            "Ukrainian",
+            "Finnish",
+            "Hungarian",
+            "Swedish",
+            "Czech",
+            "Chinese",
+            "Arabic",
+            "Catalan",
+            "Norwegian",
+            "Turkish",
+            "Indonesian",
+            "Hebrew",
+            "Korean",
+            "Serbian",
+            "Persian",
+            "Vietnamese",
+            "Bulgarian",
+            "Slovene",
+            "Romanian",
+            "Danish",
+            "Greek",
+            "Malay",
+            "Thai",
+            "Belarusian",
+            "Slovak",
+            "Afrikaans",
+            "Bengali",
+            "Tamil",
+            "Hindi",
+            "Malayalam",
+            "Marathi",
+            "Telugu",
+            "Sinhala",
+            "Swahili",
+            ""
+        ],
+        "Task Categories": [
+            "Entity Linking"
+        ],
+        "Text Sources": [
+            "wikidata",
+            " wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 3.0",
+                "License URL": "https://aclanthology.org/2022.mia-1.5.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_xlel_wd"
+    },
+    "aya-xwikis-inst": {
+        "Unique Dataset Identifier": "aya-xwikis-inst",
+        "Dataset Name": "XWikis-inst",
+        "Paper Title": "Models and Datasets for Cross-Lingual Summarisation",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "https://paperswithcode.com/paper/models-and-datasets-for-cross-lingual-1/review//",
+        "ArXiv URL": "https://arxiv.org/abs/2202.09583",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://aclanthology.org/2021.emnlp-main.742.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Czech",
+            "English",
+            "French",
+            "German",
+            ""
+        ],
+        "Task Categories": [
+            "Summarization"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "templated_xwikis"
+    },
+    "aya-adversarial-qa-(t)": {
+        "Unique Dataset Identifier": "aya-adversarial-qa-(t)",
+        "Dataset Name": "Adversarial QA (T)",
+        "Paper Title": "Beat the AI: Investigating Adversarial Human Annotation for Reading Comprehension",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00338/96474/Beat-the-AI-Investigating-Adversarial-Human",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English"
+        ],
+        "Task Categories": [
+            "Sentence Completion"
+        ],
+        "Text Sources": [
+            "wikipedia.org",
+            " crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [
+            "squad"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_adversarial_qa"
+    },
+    "aya-cnn-daily-mail-(t)": {
+        "Unique Dataset Identifier": "aya-cnn-daily-mail-(t)",
+        "Dataset Name": "CNN-Daily-Mail (T)",
+        "Paper Title": "Get To The Point: Summarization with Pointer-Generator Networks",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/1704.04368",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "English"
+        ],
+        "Task Categories": [
+            "Summarization"
+        ],
+        "Text Sources": [
+            "news articles"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "cnn/daily mail"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_cnn_dailymail"
+    },
+    "aya-flan-coqa-(t)": {
+        "Unique Dataset Identifier": "aya-flan-coqa-(t)",
+        "Dataset Name": "Flan-Coqa (T)",
+        "Paper Title": "CoQA: A Conversational Question Answering Challenge",
+        "Dataset URL": "https://stanfordnlp.github.io/coqa",
+        "GitHub URL": "https://stanfordnlp.github.io/coqa/",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "https://stanfordnlp.github.io/coqa",
+        "Semantic Scholar Corpus ID": 52055325.0,
+        "Paper Link": "https://aclanthology.org/Q19-1016.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Stanford University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_flan_coqa"
+    },
+    "aya-flan-cot-submix-(t)": {
+        "Unique Dataset Identifier": "aya-flan-cot-submix-(t)",
+        "Dataset Name": "Flan-CoT-submix (T)",
+        "Paper Title": "inetuned Language Models Are Zero-Shot Learners",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://openreview.net/pdf?id=gEZrGCozdqR",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Natural Language Generation"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "tensorflow datasets (62)"
+        ],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_flan_cot"
+    },
+    "aya-flan-gem-wiki-lingua-(t)": {
+        "Unique Dataset Identifier": "aya-flan-gem-wiki-lingua-(t)",
+        "Dataset Name": "Flan-GEM-wiki-lingua (T)",
+        "Paper Title": "WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/esdurmus/Wikilingua",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 222177239.0,
+        "Paper Link": "https://aclanthology.org/2020.findings-emnlp.360.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Summarization"
+        ],
+        "Text Sources": [
+            "wikihow.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Columbia University",
+            "Cornell University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_flan_gem_wiki"
+    },
+    "aya-flan-lambada-(t)": {
+        "Unique Dataset Identifier": "aya-flan-lambada-(t)",
+        "Dataset Name": "Flan-lambada (T)",
+        "Paper Title": "The LAMBADA dataset: Word prediction requiring a broad discourse contex",
+        "Dataset URL": "",
+        "GitHub URL": "",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 2381275.0,
+        "Paper Link": "https://arxiv.org/pdf/1606.06031",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Natural Language Generation"
+        ],
+        "Text Sources": [
+            "books",
+            " fiction books",
+            " non-fiction books"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "book corpus"
+        ],
+        "Creators": [
+            "University of Trento",
+            "University of Amsterdam"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_flan_lambada"
+    },
+    "aya-flan-unified-qa-(t)": {
+        "Unique Dataset Identifier": "aya-flan-unified-qa-(t)",
+        "Dataset Name": "Flan-unified-QA (T)",
+        "Paper Title": "UNIFIEDQA: Crossing Format Boundaries with a Single QA System",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/allenai/unifiedqa",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 218487109.0,
+        "Paper Link": "https://arxiv.org/pdf/2005.00700",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "wikipedia.org",
+            " crowdsourced",
+            " news",
+            " movie scripts"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [
+            "squad. narrativeqa",
+            " mctest",
+            " race",
+            " arc",
+            " commonsenseqa",
+            " piqa",
+            " winogrande",
+            " obqa",
+            " bool-q",
+            " newsqa",
+            " quoref",
+            " ropes",
+            " drop"
+        ],
+        "Creators": [
+            "Allen Institute for AI",
+            "University of Washington"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_flan_qa"
+    },
+    "aya-hotpotqa-(t)": {
+        "Unique Dataset Identifier": "aya-hotpotqa-(t)",
+        "Dataset Name": "HotpotQA (T)",
+        "Paper Title": "HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/hotpotqa/hotpot",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 52822214.0,
+        "Paper Link": "https://arxiv.org/pdf/1809.09600",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Carnegie Mellon University",
+            "Stanford University",
+            "Montreal Institute of Learning Algorithms (Mila)",
+            "Universite de Montreal",
+            "CIFAR Senior Fellow",
+            "Google"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_hotpotqa"
+    },
+    "aya-joke-explaination-inst-(t)": {
+        "Unique Dataset Identifier": "aya-joke-explaination-inst-(t)",
+        "Dataset Name": "Joke-explaination-inst (T)",
+        "Paper Title": "",
+        "Dataset URL": "https://huggingface.co/datasets/theblackcat102/joke_explaination",
+        "GitHub URL": "https://github.com/for-ai/aya-annotations-ui",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 267617144.0,
+        "Paper Link": "https://arxiv.org/pdf/2402.06619",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Explanation Generation"
+        ],
+        "Text Sources": [
+            "explainthejoke.com"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Cohere For AI Community",
+            "Cohere For AI",
+            "Beijing Academy of Artificial Intelligence",
+            "Binghamton University",
+            "University of Limerick",
+            "IT University of Copenhagen",
+            "Massachusetts Institute of Technology",
+            "University of Toronto",
+            "King Fahd University of Petroleum and Minerals",
+            "King Abdulaziz University",
+            "ASAS.AI",
+            "Bloomberg"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "MIT License",
+                "License URL": "https://huggingface.co/datasets/theblackcat102/joke_explaination"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_joke_explaination"
+    },
+    "aya-mintaka-inst-(t)": {
+        "Unique Dataset Identifier": "aya-mintaka-inst-(t)",
+        "Dataset Name": "Mintaka-inst (T)",
+        "Paper Title": "Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/amazon-science/mintaka",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 252693442.0,
+        "Paper Link": "https://arxiv.org/pdf/2210.01613",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "wikidata"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Amazon"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY 4.0",
+                "License URL": "https://github.com/amazon-science/mintaka"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_mintaka"
+    },
+    "aya-mlqa-en-(t)": {
+        "Unique Dataset Identifier": "aya-mlqa-en-(t)",
+        "Dataset Name": "MLQA-en (T)",
+        "Paper Title": "MLQA: Evaluating Cross-lingual Extractive Question Answering",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/facebookresearch/MLQA",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 204734128.0,
+        "Paper Link": "https://arxiv.org/pdf/1910.07475",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Facebook AI Research",
+            "University College London"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 3.0",
+                "License URL": "https://github.com/facebookresearch/mlqa"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": [
+            "translated_mlqa"
+        ]
+    },
+    "aya-nq-open-(t)": {
+        "Unique Dataset Identifier": "aya-nq-open-(t)",
+        "Dataset Name": "NQ-Open (T)",
+        "Paper Title": "Natural Questions: A Benchmark for Question Answering Research",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/google-research-datasets/natural-questions",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 86611921.0,
+        "Paper Link": "https://aclanthology.org/Q19-1026.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Google"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_nqopen"
+    },
+    "aya-paws-wiki-(t)": {
+        "Unique Dataset Identifier": "aya-paws-wiki-(t)",
+        "Dataset Name": "PAWS-Wiki (T)",
+        "Paper Title": "PAWS: Paraphrase Adversaries from Word Scramblin",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/google-research-datasets/paws",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 91184042.0,
+        "Paper Link": "https://arxiv.org/pdf/1904.01130",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Paraphrase Generation"
+        ],
+        "Text Sources": [
+            "quora",
+            " wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [
+            "qqp"
+        ],
+        "Creators": [
+            "Google"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_paws"
+    },
+    "aya-piqa-(t)": {
+        "Unique Dataset Identifier": "aya-piqa-(t)",
+        "Dataset Name": "PIQA (T)",
+        "Paper Title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+        "Dataset URL": "",
+        "GitHub URL": "",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 208290939.0,
+        "Paper Link": "https://arxiv.org/pdf/1911.11641",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Commonsense Reasoning"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Allen Institute for AI",
+            "Microsoft Research",
+            "Carnegie Mellon University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "Academic Free License v3.0",
+                "License URL": "https://github.com/ybisk/ybisk.github.io/tree/master/piqa"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_piqa"
+    },
+    "aya-soda-inst-(t)": {
+        "Unique Dataset Identifier": "aya-soda-inst-(t)",
+        "Dataset Name": "SODA-inst (T)",
+        "Paper Title": "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/skywalker023/sodaverse",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 254877312.0,
+        "Paper Link": "https://arxiv.org/pdf/2212.10465",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "custom model/code generated"
+        ],
+        "Model Generated": [
+            "OpenAI GPT-3.5-Turbo"
+        ],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Allen Institute for AI",
+            "Seoul National University",
+            "University of Washington",
+            "University of Southern California",
+            "University of Pittsburgh",
+            "Carnegie Mellon University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 4.0",
+                "License URL": "https://arxiv.org/pdf/2212.10465"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_soda"
+    },
+    "aya-wiki-qa-(t)": {
+        "Unique Dataset Identifier": "aya-wiki-qa-(t)",
+        "Dataset Name": "WIKI QA (T)",
+        "Paper Title": "WIKIQA: A Challenge Dataset for Open-Domain Question Answering",
+        "Dataset URL": "",
+        "GitHub URL": "",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 1373518.0,
+        "Paper Link": "https://aclanthology.org/D15-1237.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Open-Domain Question Answering"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Georgia Institute of Technology",
+            "Microsoft Research"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_wikiqa"
+    },
+    "aya-wiki-split-inst-(t)": {
+        "Unique Dataset Identifier": "aya-wiki-split-inst-(t)",
+        "Dataset Name": "Wiki-split-inst (T)",
+        "Paper Title": "Learning To Split and Rephrase From Wikipedia Edit History",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/google-research-datasets/wiki-split",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 52119752.0,
+        "Paper Link": "https://aclanthology.org/D18-1080.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Paraphrase Generation"
+        ],
+        "Text Sources": [
+            "wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Google"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_wiki_split"
+    },
+    "aya-xlel_wd-inst-(t)": {
+        "Unique Dataset Identifier": "aya-xlel_wd-inst-(t)",
+        "Dataset Name": "Xlel_wd-inst (T)",
+        "Paper Title": "Multilingual Event Linking to Wikidata",
+        "Dataset URL": "",
+        "GitHub URL": "https://github.com/adithya7/xlel-wd",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": 248157430.0,
+        "Paper Link": "https://aclanthology.org/2022.mia-1.5.pdf",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Entity Linking"
+        ],
+        "Text Sources": [
+            "wikidata",
+            " wikipedia.org"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "No",
+        "Derived from Datasets": [],
+        "Creators": [
+            "Carnegie Mellon University"
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 3.0",
+                "License URL": "https://aclanthology.org/2022.mia-1.5.pdf"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_xlel_wd"
+    },
+    "aya-dolly-v2-(t)": {
+        "Unique Dataset Identifier": "aya-dolly-v2-(t)",
+        "Dataset Name": "Dolly-v2 (T)",
+        "Paper Title": "Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM",
+        "Dataset URL": "",
+        "GitHub URL": "",
+        "Hugging Face URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Papers with Code URL": "",
+        "ArXiv URL": "",
+        "Semantic Scholar Corpus ID": "",
+        "Paper Link": "https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm",
+        "Collection": "Aya Collection",
+        "Collection URL": "https://huggingface.co/datasets/CohereForAI/aya_collection",
+        "Languages": [
+            "Afrikaans",
+            "Amharic",
+            "Arabic",
+            "Armenian",
+            "Assamese",
+            "Azerbaijani",
+            "Basque",
+            "Belarusian",
+            "Bengali",
+            "Bosnian",
+            "Bulgarian",
+            "Catalan",
+            "Cebuano",
+            "Chinese (Simplified)",
+            "Chinese (Traditional)",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "English",
+            "Estonian",
+            "Filipino",
+            "Finnish",
+            "French",
+            "Galician",
+            "Georgian",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Haitian Creole",
+            "Hausa",
+            "Hebrew",
+            "Hindi",
+            "Hungarian",
+            "Icelandic",
+            "Igbo",
+            "Indonesian",
+            "Irish",
+            "Italian",
+            "Japanese",
+            "Javanese",
+            "Kannada",
+            "Kazakh",
+            "Khmer",
+            "Korean",
+            "Kurdish",
+            "Kyrgyz",
+            "Lao",
+            "Latvian",
+            "Lithuanian",
+            "Luxembourgish",
+            "Macedonian",
+            "Malagasy",
+            "Malay",
+            "Malayalam",
+            "Maltese",
+            "Marathi",
+            "Mongolian",
+            "Nepali",
+            "Norwegian",
+            "Odia",
+            "Pashto",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Punjabi",
+            "Romanian",
+            "Russian",
+            "Serbian",
+            "Shona",
+            "Sindhi",
+            "Sinhala",
+            "Slovak",
+            "Slovenian",
+            "Somali",
+            "Spanish",
+            "Sundanese",
+            "Swahili",
+            "Swedish",
+            "Tagalog",
+            "Tajik",
+            "Tamil",
+            "Tatar",
+            "Telugu",
+            "Thai",
+            "Turkish",
+            "Turkmen",
+            "Ukrainian",
+            "Urdu",
+            "Uzbek",
+            "Vietnamese",
+            "Welsh",
+            "Xhosa",
+            "Yiddish",
+            "Yoruba",
+            "Zulu",
+            "Zaza",
+            "Tswana",
+            "Tshiluba",
+            "Tonga (Tonga Islands)",
+            "Tsonga"
+        ],
+        "Task Categories": [
+            "Question Answering"
+        ],
+        "Text Sources": [
+            "crowdsourced"
+        ],
+        "Model Generated": [],
+        "Format": [
+            "Zero-shot"
+        ],
+        "Bibtex": "",
+        "Human Annotation": "Yes",
+        "Derived from Datasets": [],
+        "Creators": [
+            [
+                "Cohere For AI"
+            ]
+        ],
+        "Licenses": [
+            {
+                "License": "Apache License 2.0",
+                "License URL": "https://arxiv.org/pdf/2402.06619"
+            },
+            {
+                "License": "CC BY-SA 3.0",
+                "License URL": "https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm"
+            }
+        ],
+        "License Notes": "",
+        "License Verified By": "Aleksei",
+        "Dataset Filter IDs": "translated_dolly"
+    }
+}

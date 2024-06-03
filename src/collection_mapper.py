@@ -366,6 +366,10 @@ COLLECTION_FN_MAPPER = {
         "download_function": downloaders.download_aya_dataset,
         "prepare_function": preparers.prepare_aya_dataset,
     },
+    "Aya Collection": {
+        "download_function": downloaders.download_aya_collection,
+        "prepare_function": preparers.prepare_aya_collection,
+    },
     "MegaWika": {
         "download_function": downloaders.download_megawika,
         "prepare_function": preparers.prepare_megawika,
